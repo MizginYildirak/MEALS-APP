@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Meals-App",
+    "slug": "RNCourse",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "backgroundColor": "#24180f",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "expo": {
+      "newArchEnabled": true
+    }
+  }
+}
